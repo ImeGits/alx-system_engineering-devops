@@ -1,1 +1,1 @@
-9-duplicate_last_line Task
+10-no_more_js Task
